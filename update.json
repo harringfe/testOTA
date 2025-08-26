@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "update_file_url": "http://192.168.68.63/prov/sst_latest.bin",
+  "update_file_url": "http://192.168.68.63:82/prov/sst_latest.bin",
   "old": "https://github.com/harringfe/testOTA/raw/refs/heads/master/update.bin",
   "old1": "https://homesafe.tech/sstUpdate/sst_latest.bin"
 }
